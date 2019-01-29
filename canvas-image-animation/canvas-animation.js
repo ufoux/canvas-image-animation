@@ -152,6 +152,7 @@ function scaleOrigin(elm) {
         }
     }
 
+    newSpecialFunction();
     return { x: _x, y: _y }
 }
 
